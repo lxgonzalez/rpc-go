@@ -33,6 +33,7 @@ RPC server is running on port 1234...
 10 * 5 = 50
 ```
 ### DEMO
+![image](https://github.com/user-attachments/assets/6674e56a-77f9-4417-b2b3-0107fe3c911c)
 
 ## Authors
 
